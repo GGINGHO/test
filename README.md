@@ -1,6 +1,9 @@
-# 제목 정하기
+#포트폴리오
 
-+리스트1
-+리스트1
++ HTML5 사용 
++ CSS3 사용 flex, grid
++ 깃허브로 웹호스팅
 
-[링크](https://ggingho.github.io/Test-git/)
+
+
+[링크](https://ggingho.github.io/test/)
