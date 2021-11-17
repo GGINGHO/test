@@ -6,4 +6,4 @@
 
 
 
-[링크](https://ggingho.github.io/test/)
+[링크](https://www.naver.com/)
