@@ -6,4 +6,4 @@
 
 
 
-[링크](https://www.naver.com/)
+[링크](https://www.netflix.com/browse)
